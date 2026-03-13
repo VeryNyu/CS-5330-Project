@@ -1,0 +1,46 @@
+{
+"Combatant":
+    {
+        "name": "",
+        "id": -1,
+        "_class": "",
+        "_attribute": "",
+        "_rarity": -1,
+        "deck": {}
+    },
+
+"Deck":
+    {
+        "skill": {},
+        "cards": [""]
+    },
+
+"_Skill":
+    {
+        "name": "",
+        "cost": -1,
+        "effects": [""]
+    },
+
+"Card":
+    {
+        "name": "",
+        "cost": -1,
+        "type": "",
+        "effects": [""],
+        "epiphanies": false
+    },
+    
+"Epiphany":
+    {
+        "cost": -1,
+        "type": "",
+        "effects": [""]
+    },
+    
+"Effect":
+        {
+            "name": "",
+            "description": ""
+        }
+}
